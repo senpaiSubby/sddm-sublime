@@ -9,10 +9,7 @@ Then set the current theme to sublime in sddm.conf:<br>
 ```sudo vim /etc/sddm.conf```<br>
 and set "Current" equal to "sublime" (no speech marks).
 
-## Video example:
-Click the image to see the video:
-
-[![Alt text](clairvoyance_screenshot.png?raw=true "Click to see video")](clairvoyance_example.webm?raw=true)
+![alt text](/preview.png "login")
 
 ## Customisation:
 There are a few options that you can edit in "theme.conf" - background, autoFocusPassword and enableHDPI.<br><br>
