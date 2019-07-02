@@ -1,6 +1,6 @@
 ## Installation:<br>
 First clone the repository:<br>
-```https://github.com/Simply-Sublime/sddm-sublime```<br><br>
+```https://github.com/simplysublimee/sddm-sublime```<br><br>
 Make sure that you have sddm, qt5 and fira-mono installed. On arch:<br>
 ```sudo pacman -S sddm qt5 ttf-fira-mono```<br><br>
 Then move it to the sddm-themes directory:<br>
